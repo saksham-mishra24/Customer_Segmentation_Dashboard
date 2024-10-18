@@ -8,20 +8,52 @@
 ---
 
 ## **Project Overview** 🚀
-Welcome to the **Customer Segmentation & Targeting Dashboard**! This project focuses on using data to help retail businesses better understand their customers. The goal is to transform raw customer data into clear insights that guide marketing strategies and improve customer relationships. By creating a dynamic, user-friendly dashboard, we enable the client to analyze customer behavior through segmentation based on key attributes such as age, city, income, and spending patterns.
-
+Welcome to the **Customer Segmentation & Targeting Dashboard**! This project focuses on using data to help subscription-based/retail businesses to better understand their customers. The goal is to transform raw customer data into clear insights that guide marketing strategies and improve customer relationships. By creating a dynamic, user-friendly dashboard, we enable the client to analyse customer behaviour through segmentation based on key attributes such as age, city, income, and spending patterns.
 
 ---
 
+## **Data Used** 📊
+- Customer ID
+- Annual Income
+- Monthly Spend
+- Churn Risk
+- Loyalty Scores
+- Contract Type
+- Customer Tenure
+- Service Usage
+---
+
+## **Key Features** 📊
+- **Customer Segmentation (Quadrant Chart)**: Segment customers based on income and spend.
+- **Loyalty vs. Churn Rate (Bubble Chart)**: Highlight high-loyalty customers at churn risk.
+- **Churn Probability Heatmap**: Visualize churn risk across demographics.
+- **Churn Analysis Over Time (Line Chart)**: Track churn trends.
+- **Retention by Contract Type (Stacked Column Chart)**: Analyze retention by contract types.
+- **Monthly Spend vs. Tenure (Area Chart)**: Monitor how spend changes over customer tenure.
+---
+
+## **Technologies & Tools** 🛠️
+- **Microsoft Excel**: For dashboard creation and visualization.
+- **Pivot Tables**: Summarizing customer data for insights.
+- **Excel Charts**: Quadrant, Bubble, Heatmap, and Line Charts.
+- **Power Query**: For data cleaning and enrichment.
+---
+
 ## **Client's Challenge** 💼
-The client wanted to improve their marketing efforts but struggled to understand customer demographics and behaviors. They needed a tool that could visualize customer segments easily and update automatically as new data came in. The main objectives were:
+
+The client, a subscription-based service provider, wanted to improve their marketing efforts but struggled to understand customer demographics and behaviors. They needed a tool that could easily visualize customer segments and update automatically with new data. Their key objectives were to:
 
 - **Automating** data processing
 - **Organizing** customer data
 - **Creating** an interactive dashboard for better marketing insights
 
----
+They were facing challenges in retaining high-value customers and identifying patterns of churn. Without insights into how various customer segments—based on income, spending, tenure, and loyalty—impacted churn and overall business performance, their specific goals included:
 
+- **Reducing** churn by identifying at-risk customers
+- **Understanding** customer behavior across income and spending categories
+- **Enhancing** marketing strategies based on customer segmentation
+
+---
 ## **Project Implementation** 🔄
 
 
@@ -31,7 +63,6 @@ The initial dataset provided by the client was unstructured, containing inconsis
 
 ### **Task**
 I was responsible for transforming the raw customer data into a structured format, automating key calculations, and designing interactive visuals (including pie charts and pivot tables) to showcase customer segments dynamically.
-
 
 
 ### **Actions Taken** 🎯
@@ -66,18 +97,24 @@ I was responsible for transforming the raw customer data into a structured forma
 ### Results 🎉
 - **Enhanced Data Quality**: All customer records were meticulously cleaned, organized, and categorized, resulting in a more accurate analysis.
 - **Automated Dashboard**: The client now benefits from a real-time updating dashboard that requires no manual intervention for new data entries.
-- **Actionable Insights**: Dynamic visuals, including **pie charts**, **pivot tables**, and comprehensive summaries, empower the client to identify and effectively target specific customer segments for marketing campaigns.
+- **Actionable Insights**: Dynamic visuals, including **pie charts**, **pivot tables**, and comprehensive summaries, empower the client to identify and effectively target specific customer segments for marketing campaigns like it helped target high-value segments and reduce churn.
 - **Efficiency Gains**: Automation reduced the need for manual recalculations, significantly saving time on regular reporting tasks.
 
 ---
 
 
+## Business Insights 💼
+1. **High-Value Customers**: Focus marketing efforts on high-income, high-loyalty customers.
+2. **Churn Risk**: Identify and target segments with high churn risk.
+3. **Loyalty Programs**: Tailor loyalty programs to boost retention.
+4. **Customer Spending**: Understand how spending evolves over time.
+
 ## **Conclusion** ✅
-This Excel dashboard provided the client with a powerful tool for customer segmentation and better decision-making. By using Excel's advanced features, along with dynamic visuals and Power Query, I successfully met the client’s need for real-time insights into customer behavior. This project highlights how Excel can create flexible and automated solutions for analyzing large-scale retail data.
+
+This Excel dashboard provided the client with a powerful tool for customer segmentation and data-driven decision-making. By leveraging Excel's advanced features, dynamic visuals, and Power Query, I delivered real-time insights into customer behavior. The dashboard significantly improved retention strategies and marketing effectiveness, resulting in a significant reduction in churn and enhanced customer engagement. This project demonstrates how Excel can be used to create automated, scalable solutions for analyzing large-scale retail data.
 
 
 ---
-
 
 ## **Final Thoughts** 💡
 Thank you for checking out this project! I hope it inspires you to explore data analysis in your work. If you have any questions or ideas for collaboration, please feel free to reach out. Happy analyzing! 😊🌟
